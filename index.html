@@ -73,7 +73,8 @@
 					<div class="card card-tentang">
 				      <div class="card-body">
 				        <p class="card-text">Saya sarjana komputer dari UNIVERSITAS JENDERAL ACHMAD YANI Yogyakarta program studi Teknik Informatika, dan  merupakan seseorang yang sangat tertarik dengan dunia sistem informasi berbasis web, saya sangat percaya segala sesuatu dapat dipelajari dan dikuasai.
-				        Saat ini saya menjaga dan mengasah kemampuan web programing saya dengan membuat beberapa sistem web. Saya memiliki kesehatan yang sangat baik. Dengan sifat disiplin, ramah, pekerja keras walau pemalu. Saya yakin dapat berkontribusi dalam pekerjaan ini.</p>
+				        Saat ini saya menjaga dan mengasah kemampuan web programing saya seperti HTML, CSS, MySQL, PhP dengan membuat beberapa sistem web seperti di kolom Work.
+				    	</p>
 				      </div>
 				    </div>
 
@@ -167,7 +168,7 @@
 								<img src="img/ggg.png" class="img-top img-fluid">
 							</div>	
 							<div class="content-project">
-								<p class="h3">Winih Q<br><span>Winih Q adalah toko online yang menyediakan berbagai macam benih, pupuk dan peralatan bertani ataupun berkebun. Winih Q mempunyai ambisi atau tujuan untuk memakmurkan petani di Indonesia.</span></p>
+								<p class="h3">?????<br><span>????? adalah project yang dibuat semasa Pandemi untuk menjaga kemampuan di HTML, CSS, PhP ini berisi berita sepak bola seperti jadwal, hasil dan transfer pemain.</span></p>
 
 							</div>					
 						</div>
