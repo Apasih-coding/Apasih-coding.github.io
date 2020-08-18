@@ -240,7 +240,7 @@
 			<div class="row">
 				<div class="col-sm-12">
 					<div class="copy text-center">
-						<p>&copy; 2020 | Bulit by. <a href="http://instagram.com/teguh_dwi_saputra">Teguh Dwi Saputra</a> | Design by.<a href="http://instagram.com/lutffi"> Lutfi Windu</a></p>
+						<p>&copy; 2020 | Bulit by. <a href="http://instagram.com/teguh_dwi_saputra" target="_blank">Teguh Dwi Saputra</a> | Design by.<a href="http://instagram.com/lutffi" target="_blank"> Lutfi Windu</a></p>
 					</div>
 				</div>
 			</div>
