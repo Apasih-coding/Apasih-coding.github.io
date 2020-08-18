@@ -1,0 +1,282 @@
+@media(min-width: 768px){
+	body{
+		width: 100%;
+		height: 100%;
+	}
+}
+
+@media(max-width: 768px){
+	.nav-item .nav-link{		
+		margin-top: 20px;
+	}
+	.call{
+		width: 200px;
+		display: inline-block;
+		position: relative;
+		left: 60px;
+		top: 25px;
+	}
+	.animation{
+		width: 0px;
+		height: 15px;
+		position: absolute;
+		top: 110px;
+		margin-left: 0;
+		background-color: #00B4D8;
+		transition: all 0.4s;
+	}
+	li:nth-child(1):hover ~ .animation {
+		width: 50px;
+	}
+	li:nth-child(2):hover ~ .animation {
+		width: 50px;
+		margin-top: 45px;
+		margin-left: 0;
+	}
+	li:nth-child(3):hover ~ .animation {
+		width: 50px;
+		margin-top: 90px;
+		margin-left: 0;
+	}
+	li:nth-child(4):hover ~ .animation {
+		width: 50px;
+		margin-top: 140px;
+		margin-left: 0;
+	}
+}
+
+
+@media (max-width: 669px) {
+	.nama{
+		position: relative;
+		display: inline-block;		
+		left: 57px;
+		top: -500px;
+	}
+	.dev{
+		position: relative;
+		width: 84px;
+		height: 384px;
+		left: 11px;
+		font-size: 75px;
+		line-height: 125px;
+		top: -810px;
+		color: rgba(3, 4, 94, 0.04);
+	}
+	.webdev{
+		position: relative;
+		width: 91px;
+		height: 60px;
+		left: 241px;
+		top: -1080px;
+		font-family: "Poppins", arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		line-height: 20px;
+		color: rgba(3, 4, 94, 0.3);
+	}
+}
+
+@media (max-width: 768px){
+	#About .card-about{
+		left: 15px;
+		top: -850px;
+	}
+	#About .img-mask{
+		position: relative;
+		width: 397px;
+		height: 404px;
+		top: -800px;
+		right: 0;
+		background-color: #EFF9FB;
+	}
+	#About .card-tentang{
+		width: 420px;
+		height: 211px;
+		font-size: 14px;
+		line-height: 19px;
+		color: #03045E;
+		left: 0;
+		top: -850px;
+		border: 0;
+		background-color: #EFF9FB;
+	}
+	.card-img{
+		position: relative;
+		width: 497px;
+		height: 79px;
+		top: -790px;
+		left: 15px;
+	}
+	.card-skill{
+		position: relative;
+		width: 415px;
+		min-height: 365px;
+		left: 0;
+		top: -770px;
+		color: #F6F6F6;
+		background: #002322;
+	}
+	.bar-skill{
+		position: relative;
+		top: 47px;
+		left: 20px;
+		font-family: "Poppins", arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 12px;
+		line-height: 34px;
+		color: rgba(246, 246, 246, 0.72);
+	}
+}
+
+@media (max-width: 768px){
+	#Work{
+		margin-top: 50px;
+	}
+	.work1{
+		position: relative;
+		left: 8px;
+		top: -800px
+	}
+	.hr1{
+		left: 0;
+		top: -830px;
+	}
+	#Work .card{
+		position: relative;
+		width: 350px;
+		height: 165px;
+		top: -830px;
+		color: #03045E;
+		display: flex;
+		margin: 40px;
+		text-decoration: none;
+		background: rgba(196, 196, 196, 0.29);
+		transition: 0.5s;
+	}	
+	#Work .card .content-project{
+		position: absolute;
+		bottom: 0;
+		left: 10px;
+		right: 10px;
+		bottom: 10px;
+		height: 200px;
+		display: flex;
+		opacity: 0;
+		transition: 0.5s;
+	}
+}
+
+@media (max-width: 768px){
+	.footer{
+		position: relative;
+		min-height: 650px;
+		width: 100%
+		right: 0;
+	}
+	.logo{
+		position: absolute;
+		opacity: 0;
+		top: 85px;		
+	}
+	.kontak{
+		left: 19px;
+		top: -5px;
+	}
+	.hr2{
+		left: 18px;
+		top: 60px;
+	}
+	#inputEmail4{
+		left: 50px;
+		opacity: 7;
+		color: #FFF;
+		background: rgba(255, 255, 255, 0.45);
+	}
+	#inputPassword4{
+		left: 50px;
+		top: 200px;
+		opacity: 7;
+		color: #FFF;
+		background: rgba(255, 255, 255, 0.45);
+	}
+	#pesan{
+		width: 335px;
+		height: 167px;
+		left: 50px;
+		top: 300px;
+		background: rgba(255, 255, 255, 0.45);
+		opacity: 7;
+	}
+	#submit{
+		left: 100px;
+		top: 500px;
+	}
+	.ig{
+		left: 395px;
+		top: 16px;
+	}
+	.fb{
+		position: absolute;
+		left: 395px;
+		top: 74px;
+	}
+	.grs{	
+		left: 425px;
+		top: 16px;
+	}
+}
+
+.jumbotron{
+	margin: 40px 0 40px 0;	
+	min-height: 650px;
+	margin-bottom: 50px;
+	background-color: #EFF9FB;
+}
+.jumbotron img{
+	box-sizing: content-box;
+	position: relative;
+	right: 0;
+	left: 32px;
+	width: 389px;
+	height: 485px;
+}
+.dev{
+	position: absolute;
+	width: 946px;
+	height: 384px;
+	left: 101px;
+	font-size: 150px;
+	line-height: 225px;
+	top: 121px;
+	color: rgba(3, 4, 94, 0.02);
+}
+.nama{
+	position: relative;
+	display: inline-block;
+	width: 219px;
+	height: 345px;
+	left: 457px;
+	top: 7px;
+	font-family: "Poppins", arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 80px;
+	line-height: 120px;
+	color: #03045E;
+}
+.webdev{
+	position: absolute;
+	width: 101px;
+	height: 60px;
+	left: 701px;
+	top: 333px;
+	font-family: "Poppins", arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 30px;
+	color: rgba(3, 4, 94, 0.3);
+}
