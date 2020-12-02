@@ -73,8 +73,7 @@
 					<div class="card card-tentang">
 				      <div class="card-body">
 				        <p class="card-text">Saya sarjana komputer dari UNIVERSITAS JENDERAL ACHMAD YANI Yogyakarta program studi Teknik Informatika, dan  merupakan seseorang yang sangat tertarik dengan dunia sistem informasi berbasis web, saya sangat percaya segala sesuatu dapat dipelajari dan dikuasai.
-				        Saat ini saya menjaga dan mengasah kemampuan web programing saya seperti HTML, CSS, MySQL, PhP dengan membuat beberapa sistem web seperti di kolom Work.
-				    	</p>
+				        Saat ini saya menjaga dan mengasah kemampuan web programing saya dengan membuat beberapa sistem web. Saya memiliki kesehatan yang sangat baik. Dengan sifat disiplin, ramah, pekerja keras walau pemalu. Saya yakin dapat berkontribusi dalam pekerjaan ini.</p>
 				      </div>
 				    </div>
 
@@ -84,6 +83,26 @@
 							<div class="row col-sm-12">
 								<div class="col-sm-3">
 									<p>PhP</p>
+								</div>
+								<div class="col-sm-9">
+									<div class="progress">
+										<div class="progress-bar bg-secondary" style="width:80%"></div>
+									</div>
+								</div>
+							</div>
+							<div class="row col-sm-12">
+								<div class="col-sm-3">
+									<p>CodeIgniter</p>
+								</div>
+								<div class="col-sm-9">
+									<div class="progress">
+										<div class="progress-bar bg-secondary" style="width:70%"></div>
+									</div>
+								</div>
+							</div>
+							<div class="row col-sm-12">
+								<div class="col-sm-3">
+									<p>Laravel</p>
 								</div>
 								<div class="col-sm-9">
 									<div class="progress">
@@ -139,7 +158,12 @@
 						<img src="img/Mask.png" class="img-responsive img-mask">
 					</div>
 					<div class="card card-img pull-right">
-						<img src="img/img2.png" class="img-responsive">
+						<div class="card card2"></div>
+						<div class="card card3"></div>
+						<div class="card card4"></div>
+						<div class="card card5"></div>
+						<div class="card card6"></div>
+						<div class="card card7"></div>
 					</div>
 				</div>
 			</div>			
@@ -157,8 +181,17 @@
 								<img src="img/winih.png" class="img-top img-fluid">
 							</div>
 							<div class="content-project">
-								<p class="h3">Winih Q<br><span>Winih Q adalah toko online yang menyediakan berbagai macam benih, pupuk dan peralatan bertani ataupun berkebun. Winih Q mempunyai ambisi atau tujuan untuk memakmurkan petani di Indonesia.</span></p>
-
+								<p class="h3">PhP Native<br><span>Halaman Web yang ditulis menggunakan <b> PhP Native</b> </span></p>
+							</div>
+						</div>
+					</div>
+					<div class="col mb-4">
+						<div class="card text-center">						
+							<div class="card-project">
+								<img src="img/winihLaravel.png" class="img-top img-fluid">
+							</div>
+							<div class="content-project">
+								<p class="h3">Laravel<br><span>Halaman Web yang ditulis menggunakan <b> PhP Framework Laravel</b> </span></p>
 							</div>
 						</div>
 					</div>
@@ -168,7 +201,7 @@
 								<img src="img/ggg.png" class="img-top img-fluid">
 							</div>	
 							<div class="content-project">
-								<p class="h3">?????<br><span>????? adalah project yang dibuat semasa Pandemi untuk menjaga kemampuan di HTML, CSS, PhP ini berisi berita sepak bola seperti jadwal, hasil dan transfer pemain.</span></p>
+								<p class="h3">Native<br><span>Halaman Web yang ditulis menggunakan <b> PhP Native</b> </span></p>
 
 							</div>					
 						</div>
