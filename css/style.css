@@ -362,7 +362,7 @@ li:nth-child(4):hover ~ .animation {
   transition: 0.5s;
 }
 #Work .card:hover {
-  height: 400px;
+  height: 300px;
   cursor: pointer;
 }
 #Work .card .card-project {
@@ -376,7 +376,7 @@ li:nth-child(4):hover ~ .animation {
 }
 #Work .card .card-project img {
   max-width: 100%;
-  opacity: 0.5;
+  opacity: 0.8;
   transition: 0.5s;
 }
 #Work .card:hover .card-project img {
@@ -387,7 +387,7 @@ li:nth-child(4):hover ~ .animation {
   position: absolute;
   bottom: 0;
   bottom: 10px;
-  height: 200px;
+  height: 100px;
   display: flex;
   opacity: 0;
   transition: 0.5s;
