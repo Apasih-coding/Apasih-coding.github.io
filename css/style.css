@@ -308,7 +308,7 @@ li:nth-child(4):hover ~ .animation {
   .card-skill {
     position: relative;
     width: auto;
-    height: 220px;
+    height: 300px;
     left: 0;
     margin-top: 20px;
     box-sizing: border-box;
